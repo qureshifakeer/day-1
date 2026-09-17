@@ -1,0 +1,15 @@
+ping:check if a remote computer or website reachable
+curl:trasfers data to the terminal
+ip a : displays all network
+hostname -i:shows only machine's ip address
+nslookup:finds the ip address mapped to a domain name
+traceroute:maps the entire path network
+
+
+public and private address
+public:a globally unique ip address assigned to our network gateway by our isp
+private: internal ip address assigned to an individul device by our local router 
+deffrents:public                                private
+
+scope      globel                          local
+assigned    isp                             local router
